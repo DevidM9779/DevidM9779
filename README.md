@@ -1,7 +1,6 @@
-![DevidM97 (1)](https://user-images.githubusercontent.com/107624242/174072040-ea0e24d3-3684-499c-a492-82bb6317ee4d.png)
 
 
-### Hi there, I'm David - aka DevidM97!
+### Hi there, I'm David - aka DevidM9779!
 
 ## I'm a Student, Athlete and Developer!
 - 💡 I'm currently working on a sorting algorithms visualizer!
