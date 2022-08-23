@@ -6,7 +6,7 @@
 - 💡 I'm currently working on a sorting algorithms visualizer!
 - 🌱 I'm currently learning everything!
 - 🎯 2022 Goals: Develop challenging and meaningful personal projects.
-- 🚨 Fun fact: I love to play soccer ⚽️ and traveling 🗺
+- 🚨 Fun fact: I am 22 and love to play soccer ⚽️ and traveling 🗺
 
 
 ### Connect with me:
