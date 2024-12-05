@@ -2,11 +2,11 @@
 
 ### Hi there, I'm David - aka DevidM9779!
 
-## I'm a Student, Athlete and Developer!
-- 💡 I'm currently working on a sorting algorithms visualizer!
-- 🌱 I'm currently learning everything!
-- 🎯 2022 Goals: Develop challenging and meaningful personal projects.
-- 🚨 Fun fact: I am 22 and love to play soccer ⚽️ and traveling 🗺
+## I'm a Software Developer!
+- 💡 I'm currently working on a crypto trading bot!
+- 🌱 I'm currently learning Cloud & Blockchain technologies
+- 🎯 2025 Goals: Develop a profitable bot that allows you to trade crypto-coins based on speculation patterns.
+- 🚨 Fun fact: I am 24 and love to play soccer ⚽️ and travel 🗺
 
 
 ### Connect with me:
